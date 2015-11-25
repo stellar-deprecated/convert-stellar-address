@@ -2,6 +2,12 @@
 
 Little CLI tool to convert new network address to the old network address.
 
+## Install
+
+```
+npm install -g convert-stellar-address
+```
+
 ## Usage
 
 ```
